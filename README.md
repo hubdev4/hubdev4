@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hubdev4
-- 👀 I’m interested in rust, dart, flutter, IA
-- 🌱 I’m currently learning rust
+- 👀 I’m interested in rust, dart, flutter, IA, python
+- 🌱 I’m currently learning rust, phton, dart
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me github
 
